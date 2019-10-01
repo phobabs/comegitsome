@@ -2,7 +2,8 @@
 
 body {
     font-family: "Karla";
-    background-color: #303030;
+    color: white;
+    background-color: coral;
 }
 
 hr {
@@ -12,12 +13,11 @@ hr {
 }
 
 .main {
-    background-color:antiquewhite;
+    background-color: darkslategrey;
     height: 20%;
     padding: 1em;
     width: 50%;
     margin: 0px auto;
-    height:100vh;
 }
 
 .main img {
